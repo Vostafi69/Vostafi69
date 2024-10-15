@@ -1,10 +1,8 @@
 ## Hi there 👋
 
->:trollface:
->:trollface:
+>👉
 > Just love painting buttons :)
->:trollface:
->:trollface:
+>👈
 
 <hr/>
 
