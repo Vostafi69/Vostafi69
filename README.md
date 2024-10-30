@@ -4,7 +4,8 @@
 - :punch:Good guy
 - :two_hearts:Just love painting buttons :)
 
-!important
+<hr/>
+
 <img src='https://www.codewars.com/users/Vostafi69/badges/large'/>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Vostafi69?theme=dark&font=Crushed)
